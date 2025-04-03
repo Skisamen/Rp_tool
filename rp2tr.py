@@ -1,6 +1,7 @@
 
 
 import lzma
+import sys
 import zlib
 import codecs
 import base64
